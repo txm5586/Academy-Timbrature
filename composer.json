@@ -1,0 +1,13 @@
+{
+    "name": "tassiomm/academytimb",
+    "description": "Reads Timbratture from Apple Academy",
+    "authors": [
+        {
+            "name": "Tassio Marques",
+            "email": "tassiomm@gmail.com"
+        }
+    ],
+    "require": {
+    	 "smalot/pdfparser": "*"
+    }
+}
